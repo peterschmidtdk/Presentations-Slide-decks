@@ -1,4 +1,4 @@
-# Presentations (Slidedecks) from my speaking engagements
+# Presentations (Slide decks) from my speaking engagements
 This repository contains a subset of the slide decks I used while presenting and co-presenting with community friends at various conferences, user groups and webinars.
 
 Here are some of the areas which I often have covered:
@@ -10,6 +10,8 @@ Here are some of the areas which I often have covered:
 Feel free to reach out if you have any questions in regards to 
 
 ## List of speaking engagements:
+📅 2026
+- Workplace Ninja DK
 📅 2022
 - Workplace Ninja DK - Ignite After Party - Nov 2022 - Session: [💾 <a href = "https://github.com/peterschmidtdk/Slidedecks/blob/main/2022/2022.11.11%20-%20Microsoft%20Ignite%20After%20Party%20-%20WP%20Ninja%20-%20M365%20Modern%20Work%20and%20Collaboration.pdf"> News from Ignite on Microsoft 365</a>]
 - Cloud 8 Virtual Summit (2022) - Sep 2022 - Session: [💾 <a href = "https://github.com/peterschmidtdk/Slidedecks/blob/main/2022/2022.09.23%20-%20Cloud8%20-%20Peter%20Schmidt%20-%20Defender%20For%20Business%20Deep%20Dive.pdf"> Defender for Business Deep Dive</a>]
